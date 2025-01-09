@@ -126,7 +126,7 @@ h1 {
 .img-cubo {
     box-shadow: 15px 15px 25px var(--cor-terciaria);
     border: 5px solid;
-    width: 200%;
+    width: 200px;
 
 }
 
