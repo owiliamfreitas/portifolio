@@ -126,7 +126,7 @@ h1 {
 .img-cubo {
     box-shadow: 15px 15px 25px var(--cor-terciaria);
     border: 5px solid;
-    width: 200px;
+    width: 50%;
 
 }
 
@@ -243,7 +243,9 @@ footer a:hover {
         font-size: 1.2em;
     }
   
-
+.img-cubo {
+    width: 200px;
+}
     
 
 
