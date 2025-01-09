@@ -196,7 +196,8 @@ footer {
 @media (max-width: 1200px) {
 
     .cabecalho {
-        padding: 10%;
+        width: 100%;
+        padding: 7px;
 
     }
 
