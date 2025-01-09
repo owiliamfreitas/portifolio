@@ -223,7 +223,12 @@ footer {
 
     }
     .cabecalho__home {
+        display: flex;
+        flex-wrap: wrap;
         gap: 20px;
+    }
+    .cabecalho__homelink {
+        font-size: 1em;
     }
   
 
