@@ -40,10 +40,9 @@ h1 {
 
 .cabecalho__home {
     display: flex;
+    flex-wrap: wrap;
     gap: 80px;
-
-
-
+    
 }
 
 .cabecalho__homelink {
