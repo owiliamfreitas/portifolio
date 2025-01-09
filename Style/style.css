@@ -138,10 +138,15 @@ footer {
     font-size: 1rem;
     font-weight: 100;
 
-
-
-
 }
+footer a {
+    text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;  /* Sublinha o link quando o mouse passa sobre ele */
+  color: var(--cor-terciaria) ;
+      }
+
 
 #objetivo {
     display: flex;
