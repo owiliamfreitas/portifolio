@@ -43,11 +43,12 @@ h1 {
     flex-wrap: wrap;
     gap: 80px;
     
+    
 }
 
 .cabecalho__homelink {
     font-family: "Montserrat", serif;
-    font-size: 24px;
+    font-size: 0.9em;
     font-weight: 600;
     color: var(--cor-terciaria);
     margin: 0 10px;
