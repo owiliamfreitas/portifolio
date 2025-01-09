@@ -1,7 +1,7 @@
 :root {
     --cor-primaria: #000000;
-    --cor-secundaria: #F6F6F6;
-    --cor-terciaria: #22D4FD;
+    --cor-secundaria: #7f8f9f;
+    --cor-terciaria: #adbdce;
     --cor-hover: #272727;
 
     --fonte-primaria: 'Krona One', sans-serif;
@@ -17,7 +17,7 @@
 
 body {
     box-sizing: border-box;
-    background-color: #000000;
+    background-color: var(--cor-primaria);
     font-family: "Montserrat", serif;
     color: white;
 
@@ -50,7 +50,7 @@ h1 {
     font-family: "Montserrat", serif;
     font-size: 24px;
     font-weight: 600;
-    color: #22D4FD;
+    color: var(--cor-terciaria);
     margin: 0 10px;
     padding: 10px 15px;
     text-decoration: none;
@@ -123,7 +123,7 @@ h1 {
 }
 
 .img-cubo {
-    box-shadow: 15px 15px 25px #22D4FD;
+    box-shadow: 15px 15px 25px var(--cor-terciaria);
     border: 5px solid;
     width: 50%;
 
