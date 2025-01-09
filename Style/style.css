@@ -41,14 +41,14 @@ h1 {
 .cabecalho__home {
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 80px;
     
     
 }
 
 .cabecalho__homelink {
     font-family: "Montserrat", serif;
-    font-size: 0.9em;
+    font-size: 1.5em;
     font-weight: 600;
     color: var(--cor-terciaria);
     margin: 0 10px;
@@ -221,6 +221,9 @@ footer {
         flex-direction: column-reverse;
         position: relative;
 
+    }
+    .cabecalho__home {
+        gap: 20px;
     }
   
 
