@@ -231,6 +231,8 @@ footer {
         gap: 20px;
     }
     .cabecalho__homelink {
+        padding: 10px;
+        margin: 0;
         font-size: 1.2em;
     }
   
