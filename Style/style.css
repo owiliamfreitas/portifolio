@@ -225,10 +225,11 @@ footer {
     .cabecalho__home {
         display: flex;
         flex-wrap: wrap;
+        flex-direction: row;
         gap: 20px;
     }
     .cabecalho__homelink {
-        font-size: 1em;
+        font-size: 1.2em;
     }
   
 
