@@ -1,5 +1,5 @@
 :root {
-    --cor-primaria: #000000;
+    --cor-primaria: #202122;
     --cor-secundaria: #7f8f9f;
     --cor-terciaria: #adbdce;
     --cor-hover: #272727;
@@ -24,7 +24,7 @@ body {
 }
 
 .titulo-destaque {
-    color: blueviolet
+    color: #51606f
 }
 
 h1 {
@@ -135,7 +135,7 @@ footer {
     padding: 10px;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 0.5rem;
     font-weight: 100;
 
 
@@ -222,6 +222,7 @@ footer {
         position: relative;
 
     }
+  
 
     
 
